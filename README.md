@@ -1,2 +1,2 @@
 # mulesoft-sample
-SQLite DB creation with JDBC and java
+SQLite DB creation with JDBC and java - sample
